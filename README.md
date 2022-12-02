@@ -21,7 +21,7 @@
 ### Entrada de datos
 1. Lo primeros datos que se necesitan es el array de precios, el cual debe ser ingresado por elemento, separado por comas
 
-*Ejemplo: *
+*Ejemplo:*
 ```
     Por favor ingrese el arreglo de precios:
     R:    7,1,5,3,6,4
